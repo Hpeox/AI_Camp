@@ -51,6 +51,7 @@ for label in ['label_5','label_10','label_20','label_40','label_60']:
 - 观察结果提升
 
   - 怀疑发生过拟合，正在调参
+    - 结果：1500—>1000分数降低
 
 
 ## 3. TODO
